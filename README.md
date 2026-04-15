@@ -100,3 +100,9 @@ git push -u origin main
 ```
 *Added on: 2026-04-15 22:59*
 
+## Start fresh connection with the GitHub
+```bash
+ssh -T git@github.com
+```
+*Added on: 2026-04-15 23:00*
+
