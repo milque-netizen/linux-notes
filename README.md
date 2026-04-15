@@ -82,3 +82,9 @@ sudo ln -s ~/projects/linux-notes/note.py /usr/local/bin/note
 ```
 *Added on: 2026-04-15 22:50*
 
+## Setup environment for the project (git init)
+```bash
+mkdir -p ~/projects/linux-notes && cd ~/projects/linux-notes
+```
+*Added on: 2026-04-15 22:54*
+
