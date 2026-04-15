@@ -40,3 +40,9 @@ ssh -T git@github.com
 ```
 *Added on: 2026-04-15 22:20*
 
+## Download files from the github
+```bash
+git clone git@github.com:milque-netizen/linux-notes.git
+```
+*Added on: 2026-04-15 22:25*
+
