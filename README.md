@@ -22,3 +22,9 @@ git log --show-signature
 ```
 *Added on: 2026-04-15 16:29*
 
+## Check disk partitions and mount points
+```bash
+lsblk
+```
+*Added on: 2026-04-15 16:40*
+
