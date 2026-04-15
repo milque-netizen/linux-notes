@@ -70,3 +70,9 @@ git log --show-signature
 ```
 *Added on: 2026-04-15 22:46*
 
+## Make it global (so you can use it anywhere)
+```bash
+sudo ln -sf ~/projects/linux-notes/note.py /usr/local/bin/note
+```
+*Added on: 2026-04-15 22:48*
+
