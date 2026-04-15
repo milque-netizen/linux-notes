@@ -34,3 +34,9 @@ sudo nano /etc/gai.conf
 ```
 *Added on: 2026-04-15 21:15*
 
+## Test if GitHub recognizes my SSH/GPG key
+```bash
+ssh -T git@github.com
+```
+*Added on: 2026-04-15 22:20*
+

@@ -22,3 +22,4 @@ if __name__ == "__main__":
     
     # Run the function with arguments from the terminal
     add_note(sys.argv[1], sys.argv[2])
+
