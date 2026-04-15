@@ -94,3 +94,9 @@ git remote add origin git@github.com:milque-netizen/test-signing.git
 ```
 *Added on: 2026-04-15 22:58*
 
+## Push the signed commit
+```bash
+git push -u origin main
+```
+*Added on: 2026-04-15 22:59*
+
