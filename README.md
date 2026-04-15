@@ -58,3 +58,9 @@ git push -u origin main
 ```
 *Added on: 2026-04-15 22:35*
 
+## Check where my local repo is pushing its code
+```bash
+git remote -v
+```
+*Added on: 2026-04-15 22:37*
+
