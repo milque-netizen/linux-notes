@@ -16,3 +16,9 @@ asusctl -s
 ```
 *Added on: 2026-04-15 16:26*
 
+## View git commit history with GPG verification details
+```bash
+git log --show-signature
+```
+*Added on: 2026-04-15 16:29*
+
