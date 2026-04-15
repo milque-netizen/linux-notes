@@ -28,3 +28,9 @@ lsblk
 ```
 *Added on: 2026-04-15 16:40*
 
+## How to prioritize IPv4 over IPv6 for faster connections
+```bash
+sudo nano /etc/gai.conf
+```
+*Added on: 2026-04-15 21:15*
+
