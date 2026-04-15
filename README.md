@@ -76,3 +76,9 @@ sudo ln -sf ~/projects/linux-notes/note.py /usr/local/bin/note
 ```
 *Added on: 2026-04-15 22:48*
 
+## Create a link to the script in your local binary directory
+```bash
+sudo ln -s ~/projects/linux-notes/note.py /usr/local/bin/note
+```
+*Added on: 2026-04-15 22:50*
+
