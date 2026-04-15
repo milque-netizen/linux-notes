@@ -88,3 +88,9 @@ mkdir -p ~/projects/linux-notes && cd ~/projects/linux-notes
 ```
 *Added on: 2026-04-15 22:54*
 
+## Link local repo to your new GitHub repo
+```bash
+git remote add origin git@github.com:milque-netizen/test-signing.git
+```
+*Added on: 2026-04-15 22:58*
+
