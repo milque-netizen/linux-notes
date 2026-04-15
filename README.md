@@ -52,3 +52,9 @@ git log -n 1 origin
 ```
 *Added on: 2026-04-15 22:29*
 
+## Go along with the new repository
+```bash
+git push -u origin main
+```
+*Added on: 2026-04-15 22:35*
+
